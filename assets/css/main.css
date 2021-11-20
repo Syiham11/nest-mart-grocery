@@ -6992,7 +6992,7 @@ h6.post-title {
 }
 
 .search-style-2 {
-  width: 50%;
+  width: 100%;
 }
 
 .search-style-2 form {
@@ -11055,7 +11055,7 @@ footer .hotline img {
 }
 
 /*Desktop*/
-@media only screen and (min-width: 992px) and (max-width: 1099px) {
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
   .totall-product h2 {
     font-size: 28px;
   }
@@ -11171,7 +11171,7 @@ footer .hotline img {
 }
 
 /*Wide screen*/
-@media only screen and (min-width: 1400px) {
+@media only screen and (min-width: 1600px) {
   .header-action-right .search-location {
     display: block;
   }
